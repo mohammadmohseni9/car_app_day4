@@ -1,6 +1,6 @@
-# tesla_app
+# car_app
 
-A new Flutter project.
+A new project with Flutter that controls an electronic car
 
 ## Getting Started
 
