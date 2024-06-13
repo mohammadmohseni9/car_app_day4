@@ -1,0 +1,11 @@
+{
+    "car" : "car",
+    "lock" : "lock",
+    "charg" : "charg",
+    "temp" : "temp",
+    "location" : "location",
+    "tyres" :  "tyres",
+    "km" : "km",
+    "hot" : "hot",
+    "cool" : "cool"
+}
